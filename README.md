@@ -1,8 +1,8 @@
-<h2 align="left">Bem vindo</h2>
+<h1 align="left">Bem vindo</h1>
 
 ###
 
-<h4 align="left">Sobre mim:</h4>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Tecnologias mais dominadas:</h3>
+<h2 align="left">Tecnologias mais dominadas:</h2>
 
 ###
 
