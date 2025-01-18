@@ -1,16 +1,17 @@
-<h1 align="left">Bem vindo</h1>
+<h1 align="left">Bem vindo! 👋</h1>
+
 
 ###
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left">🔻Sobre mim:</h3>
 
 ###
 
-<p align="left">Estudante de Ciência da Computação e aspirante a desenvolvedor.<br><br>Atualmente me familiarizando com APIs Rest.</p>
+<p align="left">Sou estudante de Ciência da Computação e aspirante a desenvolvedor.<br>Estou atualmente me familiarizando com o desenvolvimento de APIs Rest.</p>
 
 ###
 
-<h2 align="left">Tecnologias:</h2>
+<h2 align="left">👾Tecnologias:</h2>
 
 ###
 
