@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Sou estudante de Ciência da Computação e desenvolvedor junior.<br>Estou atualmente me familiarizando com o desenvolvimento de APIs Rest.</p>
+<p align="left">Sou bacharel Ciência da Computação e desenvolvedor junior.<br>Estou atualmente me aprofundando em padrões de desenvolvimento (Design Patterns)</p>
 
 ###
 
